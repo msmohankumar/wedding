@@ -1,9 +1,9 @@
-M. S. Mohan Kumar & Priyanka — Wedding Invitation
-💍 Happy Marriage | M. S. Mohan Kumar ❋ Priyanka
+M. S. Mohan Kumar & Priyanka Prasad — Wedding Invitation
+💍 Happy Marriage | M. S. Mohan Kumar ❋ Priyanka Prasad
 
 🌐 Live Website: https://msmohankumar.github.io/wedding/
 
-A beautiful, interactive wedding invitation website created to share the celebration details of Mohan Kumar and Priyanka. The page combines traditional Indian wedding styling with modern animations and an easy-to-use mobile-friendly layout.
+A beautiful, interactive wedding invitation website created to share the celebration details of Mohan Kumar and Priyanka Prasad. The page combines traditional Indian wedding styling with modern animations and an easy-to-use mobile-friendly layout.
 ✨ Highlights
 - Animated wedding entrance and invitation-opening experience.
 - Floral decorations, floating hearts, petals and golden sparkle effects.
@@ -51,4 +51,4 @@ Keep index.html and all referenced image, audio, video, font and other asset fil
 Share the live invitation with family and friends:
 
 https://msmohankumar.github.io/wedding/
-Made with love for the wedding celebration of M. S. Mohan Kumar & Priyanka. ❤️
+Made with love for the wedding celebration of M. S. Mohan Kumar & Priyanka Prasad. ❤️
